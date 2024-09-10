@@ -26,7 +26,7 @@ The Misskey Emoji Bulk Uploader is a web application built with Nuxt 3 that allo
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/misskey-emoji-bulk-uploader.git
+   git clone https://github.com/pentacoxian/misskey-emoji-bulk-uploader.git
    cd misskey-emoji-bulk-uploader
    ```
 
