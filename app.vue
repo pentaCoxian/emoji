@@ -68,7 +68,7 @@
             <button @click="removeEmoji(file)" class="btn btn-circle btn-xs absolute top-0 right-0 bg-error text-white">
               ×
             </button>
-            <div class="w-16 h-16 bg-gray-200 rounded-lg mb-1 overflow-hidden">
+            <div class="w-16 h-16 rounded-lg mb-1 overflow-hidden">
               <img v-lazy="getFilePreview(file)" 
                    alt="Emoji preview" 
                    class="w-full h-full object-contain"
